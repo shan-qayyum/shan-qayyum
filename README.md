@@ -24,6 +24,15 @@ About two years building business systems for compliance, healthcare and e-comme
 | **Incident** | Found why ~12 customer quote requests in 10 days never reached sales (rejected by Google's email checks) and fixed delivery with SPF/DKIM/DMARC |
 | **QA at scale** | Tested 70 pages × 7 screen sizes with Playwright and cut tap-target defects from 452 to 156 (WCAG 2.1 AA). Lighthouse SEO 61 → 100 |
 
+### Case studies
+
+| Case study | What it shows |
+|---|---|
+| [ERP workflow automation for an engineering firm](https://shanqayyum.com/work/erp-automation/) | Approval stages, permissions and generated compliance documents in ERPNext |
+| [Company mail: PWA + single sign-on](https://shanqayyum.com/work/mail-pwa-sso/) | Keycloak SSO rollout and release gating with 27 E2E test suites |
+| [SEO & performance overhaul: Lighthouse 61 → 100](https://shanqayyum.com/work/seo-performance/) | Redirect chains, Search Console errors and accessibility fixed at scale |
+| [WooCommerce → lab fulfillment integration](https://shanqayyum.com/work/woocommerce-fulfillment/) | Order hand-off to a lab's API with retry queues |
+
 ### Delivery toolkit
 
 ![Release planning](https://img.shields.io/badge/Release_planning_&_rollback-0d1117?style=for-the-badge)
