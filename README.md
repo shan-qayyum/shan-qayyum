@@ -16,7 +16,7 @@ About two years building business systems for compliance, healthcare and e-comme
 
 ### Delivery, with numbers
 
-| | |
+| Area | What I delivered |
 |---|---|
 | **Approval workflow** | Replaced manual Word templates with an ERPNext workflow (Draft → In Review → Approved For Use): role-based permissions, in-review edit locks, 5 custom DocTypes with frozen snapshots, and an automated 4-page RAMS PDF per task |
 | **Release gating** | Shipped a customised mail client on 4 Linux/macOS channels, each release gated by 27 automated end-to-end test suites |
