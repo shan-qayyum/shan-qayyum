@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.png" alt="Shan Qayyum: Technical Project Manager & Software Engineer. I run delivery for software & ERP teams." width="100%"></p>
+<p align="center"><img src="assets/banner.png" alt="Shan Qayyum: Technical Project Manager & Software Engineer. I ship software and run the delivery around it." width="100%"></p>
 
 <p align="center">
   <a href="https://shanqayyum.com"><img src="https://img.shields.io/badge/Portfolio-shanqayyum.com-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
@@ -10,19 +10,26 @@
 
 ## Shan Qayyum
 
-**Technical Project Manager & Software Engineer.** I run delivery for software & ERP teams: releases, issue triage, approval workflows. Based in Lahore, Pakistan (PKT, UTC+5). Open to remote work worldwide.
+**Technical Project Manager & Software Engineer.** Multi-stack engineer (AI tooling with human approval, Playwright E2E testing, React/Next.js, Laravel, Python) who also runs the delivery around the code: releases, issue triage and approvals. Based in Lahore, Pakistan (PKT, UTC+5). Open to remote work worldwide.
 
 About two years building business systems for compliance, healthcare and e-commerce teams. I design the workflows people work inside, run production support on live sites, and test releases end to end before they ship.
+
+### Open source
+
+| Repo | What it shows |
+|---|---|
+| [lead-hunter](https://github.com/shan-qayyum/lead-hunter) | AI tool design: rule checks before AI, hard AI cost caps, a person approves every send. Node.js, Playwright, 23 unit + 19 E2E tests |
+| [delivery-playbook](https://github.com/shan-qayyum/delivery-playbook) | How I run the work: P0–P3 triage, release checklist + rollback runbook, test gates, incident reports |
 
 ### Delivery, with numbers
 
 | Area | What I delivered |
 |---|---|
-| **Approval workflow** | Replaced manual Word templates with an ERPNext workflow (Draft → In Review → Approved For Use): role-based permissions, in-review edit locks, 5 custom DocTypes with frozen snapshots, and an automated 4-page RAMS PDF per task |
 | **Release gating** | Shipped a customised mail client on 4 Linux/macOS channels, each release gated by 27 automated end-to-end test suites |
 | **Issue triage** | Ran a 14-issue P0–P3 register on a live store, plus tagged releases, pre-change backups and a documented rollback |
 | **Incident** | Found why ~12 customer quote requests in 10 days never reached sales (rejected by Google's email checks) and fixed delivery with SPF/DKIM/DMARC |
 | **QA at scale** | Tested 70 pages × 7 screen sizes with Playwright and cut tap-target defects from 452 to 156 (WCAG 2.1 AA). Lighthouse SEO 61 → 100 |
+| **Approval workflow** | Replaced manual Word templates with an ERPNext workflow (Draft → In Review → Approved For Use): role-based permissions, in-review edit locks, 5 custom DocTypes with frozen snapshots, and an automated 4-page RAMS PDF per task |
 
 ### Case studies
 
