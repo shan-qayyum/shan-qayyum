@@ -1,10 +1,10 @@
 <p align="center"><img src="assets/banner.png" alt="Shan Qayyum: Technical Project Manager & Software Engineer. I ship software and run the delivery around it." width="100%"></p>
 
 <p align="center">
-  <a href="https://shanqayyum.com"><img src="https://img.shields.io/badge/Portfolio-shanqayyum.com-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=white&cacheSeconds=86400" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/shan-qayyum-4594a22aa/"><img src="https://img.shields.io/badge/LinkedIn-Shan_Qayyum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=86400" alt="LinkedIn"></a>
-  <a href="mailto:qayyumshan9@gmail.com"><img src="https://img.shields.io/badge/Email-qayyumshan9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Open_to-Technical_PM_·_Delivery_·_Product-3dff9d?style=for-the-badge" alt="Open to roles">
+  <a href="https://shanqayyum.com"><img src="assets/badges/portfolio-shanqayyum-com-00e5ff.svg" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/shan-qayyum-4594a22aa/"><img src="assets/badges/linkedin-shan-qayyum-0a66c2.svg" alt="LinkedIn"></a>
+  <a href="mailto:qayyumshan9@gmail.com"><img src="assets/badges/email-qayyumshan9-gmail-com-ea4335.svg" alt="Email"></a>
+  <img src="assets/badges/open-to-technical-pm-delivery-product-3dff9d.svg" alt="Open to roles">
   <img src="https://komarev.com/ghpvc/?username=shan-qayyum&style=for-the-badge&color=00e5ff&label=Profile+views" alt="Profile views">
 </p>
 
@@ -42,33 +42,33 @@ About two years building business systems for compliance, healthcare and e-comme
 
 ### Delivery toolkit
 
-![Release planning](https://img.shields.io/badge/Release_planning_&_rollback-0d1117?style=for-the-badge)
-![Issue triage](https://img.shields.io/badge/Issue_triage_P0–P3-0d1117?style=for-the-badge)
-![Workflow design](https://img.shields.io/badge/Approval_workflow_design-0d1117?style=for-the-badge)
-![QA](https://img.shields.io/badge/QA_&_E2E_testing-0d1117?style=for-the-badge)
-![Incidents](https://img.shields.io/badge/Incident_diagnosis-0d1117?style=for-the-badge)
+![Release planning](assets/badges/release-planning-rollback-0d1117.svg)
+![Issue triage](assets/badges/issue-triage-p0-p3-0d1117.svg)
+![Workflow design](assets/badges/approval-workflow-design-0d1117.svg)
+![QA](assets/badges/qa-e2e-testing-0d1117.svg)
+![Incidents](assets/badges/incident-diagnosis-0d1117.svg)
 
 ### Build stack
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL_/_MariaDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white&cacheSeconds=86400)
-![ERPNext](https://img.shields.io/badge/ERPNext_/_Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white&cacheSeconds=86400)
+![Laravel](assets/badges/laravel-ff2d20.svg)
+![PHP](assets/badges/php-777bb4.svg)
+![Python](assets/badges/python-3776ab.svg)
+![TypeScript](assets/badges/typescript-3178c6.svg)
+![React](assets/badges/react-20232a.svg)
+![Next.js](assets/badges/next-js-000000.svg)
+![Symfony](assets/badges/symfony-000000.svg)
+![WooCommerce](assets/badges/woocommerce-96588a.svg)
+![MySQL](assets/badges/mysql-mariadb-4479a1.svg)
+![ERPNext](assets/badges/erpnext-frappe-0089ff.svg)
 
 ### Quality & ops
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak_SSO-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Playwright](assets/badges/playwright-2ead33.svg)
+![Docker](assets/badges/docker-2496ed.svg)
+![Redis](assets/badges/redis-dc382d.svg)
+![Keycloak](assets/badges/keycloak-sso-4d4d4d.svg)
+![Git](assets/badges/git-f05032.svg)
+![Cloudflare](assets/badges/cloudflare-workers-f38020.svg)
 
 ### Currently
 
