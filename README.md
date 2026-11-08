@@ -1,8 +1,8 @@
 <p align="center"><img src="assets/banner.png" alt="Shan Qayyum: Technical Project Manager & Software Engineer. I ship software and run the delivery around it." width="100%"></p>
 
 <p align="center">
-  <a href="https://shanqayyum.com"><img src="https://img.shields.io/badge/Portfolio-shanqayyum.com-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/shan-qayyum-4594a22aa/"><img src="https://img.shields.io/badge/LinkedIn-Shan_Qayyum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://shanqayyum.com"><img src="https://img.shields.io/badge/Portfolio-shanqayyum.com-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=white&cacheSeconds=86400" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/shan-qayyum-4594a22aa/"><img src="https://img.shields.io/badge/LinkedIn-Shan_Qayyum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=86400" alt="LinkedIn"></a>
   <a href="mailto:qayyumshan9@gmail.com"><img src="https://img.shields.io/badge/Email-qayyumshan9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Open_to-Technical_PM_·_Delivery_·_Product-3dff9d?style=for-the-badge" alt="Open to roles">
   <img src="https://komarev.com/ghpvc/?username=shan-qayyum&style=for-the-badge&color=00e5ff&label=Profile+views" alt="Profile views">
@@ -58,8 +58,8 @@ About two years building business systems for compliance, healthcare and e-comme
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL_/_MariaDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![ERPNext](https://img.shields.io/badge/ERPNext_/_Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL_/_MariaDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white&cacheSeconds=86400)
+![ERPNext](https://img.shields.io/badge/ERPNext_/_Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white&cacheSeconds=86400)
 
 ### Quality & ops
 
