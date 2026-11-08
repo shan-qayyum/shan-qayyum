@@ -35,9 +35,9 @@ About two years building business systems for compliance, healthcare and e-comme
 
 | Case study | What it shows |
 |---|---|
-| [ERP workflow automation for an engineering firm](https://shanqayyum.com/work/erp-automation/) | Approval stages, permissions and generated compliance documents in ERPNext |
 | [Company mail: PWA + single sign-on](https://shanqayyum.com/work/mail-pwa-sso/) | Keycloak SSO rollout and release gating with 27 E2E test suites |
 | [SEO & performance overhaul: Lighthouse 61 → 100](https://shanqayyum.com/work/seo-performance/) | Redirect chains, Search Console errors and accessibility fixed at scale |
+| [ERP workflow automation for an engineering firm](https://shanqayyum.com/work/erp-automation/) | Approval stages, permissions and generated compliance documents in ERPNext |
 | [WooCommerce → lab fulfillment integration](https://shanqayyum.com/work/woocommerce-fulfillment/) | Order hand-off to a lab's API with retry queues |
 
 ### Delivery toolkit
@@ -50,7 +50,6 @@ About two years building business systems for compliance, healthcare and e-comme
 
 ### Build stack
 
-![ERPNext](https://img.shields.io/badge/ERPNext_/_Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,6 +59,7 @@ About two years building business systems for compliance, healthcare and e-comme
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL_/_MariaDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext_/_Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
 
 ### Quality & ops
 
