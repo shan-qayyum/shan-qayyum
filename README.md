@@ -23,6 +23,7 @@ About two years building business systems for compliance, healthcare and e-comme
 | [tap-target-audit](https://github.com/shan-qayyum/tap-target-audit) | Playwright CLI that audits every page at 7 screen sizes for undersized and overlapping tap targets and sideways scrolling (WCAG 2.2), with CI exit codes |
 | [release-gate-action](https://github.com/shan-qayyum/release-gate-action) | GitHub Action that blocks a release without a SemVer tag, changelog entry, rollback plan and green checks, then writes the checklist and rollback plan |
 | [keycloak-sso-starter](https://github.com/shan-qayyum/keycloak-sso-starter) | Keycloak + OpenID Connect starter: PKCE login, roles and logout, with an end-to-end test against real Keycloak in CI |
+| [astro-llms-txt](https://github.com/shan-qayyum/astro-llms-txt) | Astro integration that generates /llms.txt and /llms-full.txt from built pages so AI assistants can read a site, plus typed JSON-LD helpers |
 
 ### Delivery, with numbers
 
